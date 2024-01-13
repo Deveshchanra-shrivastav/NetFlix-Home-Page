@@ -321,7 +321,7 @@ footer>div{
     body{
         margin: 0;
         padding: 0;
-        background-image: url(./img/banner.jpg);
+        background-image: url(banner.jpg);
         background-repeat: repeat-x;
         font-family: 'Fira Sans', sans-serif;
         background-size: 100%;
